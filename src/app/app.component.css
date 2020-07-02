@@ -1,0 +1,26 @@
+.containsCards
+{
+    text-align: center;
+}
+.header{
+    text-align: center;
+    background-color: skyblue;
+    color:  blue ;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-weight: bolder;
+}
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+  background-color: skyblue;
+  text-align: center;
+  padding-top: 15px;
+  color: blue;
+  font-weight: bold;
+  font-size: 10px;
+    
+}
